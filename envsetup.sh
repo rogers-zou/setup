@@ -1,0 +1,3 @@
+export ZZROOT=$HOME/app
+export PATH=$ZZROOT/bin:$PATH
+export LD_LIBRARY_PATH=$ZZROOT/lib:$ZZROOT/lib64:$LD_LIBRARY_PATH
